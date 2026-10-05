@@ -41,8 +41,7 @@
 
 以下仅展示公开项目。安装步骤、使用说明和许可证以各项目文档为准。
 
-### 
-内容与自动化
+### 内容与自动化
 
 | 项目 | 说明 |
 | --- | --- |
@@ -52,16 +51,14 @@
 | [teen-psychology-insights](https://github.com/0xfaheng/teen-psychology-insights) | 心光馨语 - 闺蜜聊天式轻松心理学公众号内容生成 Skill |
 | [web3-daily](https://github.com/0xfaheng/web3-daily) | Web3每日洞察自动发布助手 - 自动采集Web3资讯，生成中文日报，发布到微信公众号 |
 
-### 
-业务演示与方案
+### 业务演示与方案
 
 | 项目 | 说明 |
 | --- | --- |
 | [ecommerce-monitor-public](https://github.com/0xfaheng/ecommerce-monitor-public) | 电商挂网监控流程公开脱敏版：模块、流程、字段和配置模板 |
 | [haabee-demo](https://github.com/0xfaheng/haabee-demo) | 汉北官网改版演示：公开网页与产品技术资料，非正式官网 |
 
-### 
-素材与图床
+### 素材与图床
 
 | 项目 | 说明 |
 | --- | --- |
