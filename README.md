@@ -1,8 +1,33 @@
 # 0xfaheng
 
-这里是 **0xfaheng** 的 GitHub 项目入口。
+**AI 工具实践 · 自动化工作流 · 内容与知识整理**
 
-集中整理 AI 工具、自动化工作流、内容生产与实用项目，方便查找、下载和使用。
+你好，我是 **0xfaheng**。
+
+我喜欢从实际问题出发，探索 AI 和自动化能怎样帮助我们完成工作：把重复操作交给程序，把经验整理成可以复用的 Skills，把零散的信息变成清晰的内容。
+
+这个 GitHub 是我的项目与实践入口。我会在这里持续整理工具、工作流和案例，分享实现过程、使用方法，以及实践中遇到的问题。
+
+你可以找到围绕具体任务整理的 AI 工具与 Skills、信息采集和内容发布工作流，以及业务流程和网页演示等实用案例。
+
+我希望这些项目能让你找到一个有用的工具，理解一套可复用的方法，或者获得解决自己问题的思路。
+
+## 联系与关注
+
+| 平台 | 账号与入口 |
+| --- | --- |
+| 个人微信 | `faheng2009` |
+| X | [@0xfaheng](https://x.com/0xfaheng) |
+| YouTube | [@0xfaheng](https://www.youtube.com/@0xfaheng) |
+
+<details>
+<summary>扫码添加我的微信</summary>
+
+<img src="https://raw.githubusercontent.com/lairulan/lairulan/main/assets/wechat-qr.png" alt="0xfaheng 微信二维码，微信号 faheng2009" width="300" />
+
+</details>
+
+欢迎交流工具使用、自动化实践与项目改进。具体项目问题也可以在对应仓库提交 Issue。
 
 > 品牌：**0xfaheng** · 当前 GitHub 管理账号：[@lairulan](https://github.com/lairulan)
 
